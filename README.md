@@ -6,7 +6,7 @@ Download the example [or clone the repo](https://github.com/rabius-sunny/nextJs-
 
 
 ```sh
-git clone https://github.com/rabius-sunny/nextJs-typescript-Mui-starter
+git clone https://github.com/rabius-sunny/nextJs-typescript-Mui-starter.git
 cd nextJs-typescript-Mui-starter
 ```
 
